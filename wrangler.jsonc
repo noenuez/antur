@@ -1,0 +1,8 @@
+{
+  // Configuración de Cloudflare Workers para la landing estática de Antür Dental
+  "name": "antur",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "."
+  }
+}
